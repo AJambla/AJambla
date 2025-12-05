@@ -1,11 +1,11 @@
-## 👋 Hi, I'm Abhishek Jambla
+# 👋 Hi, I'm Abhishek Jambla
 
 🌟 Aspiring Software Developer | ML Enthusiast | Cloud & DevOps Learner
 🎓 Student at Thapar University
 💡 Passionate about building impactful projects—from machine learning to full-stack applications, and now diving deep into AWS cloud technologies.
 
 
-# 🚀 About Me
+## 🚀 About Me
 
 🔭 I love creating real-world projects that solve practical problems
 
