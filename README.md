@@ -19,7 +19,7 @@
 
 🎯 Goal: Build production-ready applications & become a strong full-stack + cloud engineer
 
-🎯 Hobbies & Interests
+## 🎯 Hobbies & Interests
 
 Here are a few things I enjoy outside the code editor:
 
@@ -38,7 +38,7 @@ Here are a few things I enjoy outside the code editor:
 🍽️ Trying New Food – Foodie at heart!
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages:
 JavaScript TypeScript Python SQL
@@ -55,7 +55,7 @@ AWS EC2 S3 CloudFront RDS SES
 Databases:
 MongoDB PostgreSQL MySQL
 
-🌟 Featured Projects
+## 🌟 Featured Projects
 🔹 Doctor Appointment System
 
 Full-stack platform where patients can book doctor appointments, manage schedule & more.
@@ -75,7 +75,7 @@ A Jupyter Notebook project determining water drinkability using ML.
 Secure file storage solution using AWS services & TypeScript Backend.
 
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 💼 LinkedIn: (add your link)
 📧 Email: (your email)
