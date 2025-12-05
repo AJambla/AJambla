@@ -1,4 +1,4 @@
-##👋 Hi, I'm Abhishek Jambla
+## 👋 Hi, I'm Abhishek Jambla
 
 🌟 Aspiring Software Developer | ML Enthusiast | Cloud & DevOps Learner
 🎓 Student at Thapar University
