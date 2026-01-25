@@ -77,8 +77,8 @@ Secure file storage solution using AWS services & TypeScript Backend.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: (add your link)
-📧 Email: (your email)
+💼 LinkedIn: (www.linkedin.com/in/abhishek-jambla)
+📧 Email: (abhishekjambla@gmail.com)
 🌐 Portfolio: (Soon on AWS 😉)
 
 <!--
