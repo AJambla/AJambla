@@ -25,7 +25,6 @@ Here are a few things I enjoy outside the code editor:
 
 📸 Photography – Capturing moments & exploring visual creativity
 
-🏋️ Fitness & Gym – Staying active and disciplined
 
 🌍 Traveling – Discovering new places, cultures & experiences
 
