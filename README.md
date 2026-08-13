@@ -117,7 +117,6 @@
 ## 🚀 Featured Projects
 
 ### 🔗 APIWeaver – Autonomous Multi-Agent API Integration Platform
-[GitHub](https://github.com/AJambla/APIWeaver-Autonomous-Multi-Agent-API-Integration-Platform)
 
 - A multi-agent AI system that reads API docs (OpenAPI, Swagger, Markdown, PDF) and automatically generates working API integrations — cutting integration time from 3-4 hours down to 25-30 minutes.
 - Combines RAG-based doc retrieval, workflow planning, code generation, and self-debugging (via LangGraph + LLMs) to run 5-10 agents concurrently with a 75-80% success rate.
