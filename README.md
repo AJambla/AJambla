@@ -116,23 +116,27 @@
 
 ## 🚀 Featured Projects
 
-### ☁️ CloudBox
-A cloud-based file storage platform built using **React, Node.js, MongoDB Atlas, AWS S3, EC2, and CloudFront** with secure file uploads, sharing, search, and storage management.
-`React` `Node.js` `MongoDB` `AWS S3` `EC2` `CloudFront`
+### 🔗 APIWeaver – Autonomous Multi-Agent API Integration Platform
+[GitHub](https://github.com/AJambla/APIWeaver-Autonomous-Multi-Agent-API-Integration-Platform)
 
-### 🤖 AI Machine Health Monitoring
-Machine Learning application that predicts machine health using sound analysis and deep learning techniques.
-`Python` `TensorFlow` `Deep Learning` `Signal Processing`
+- A multi-agent AI system that reads API docs (OpenAPI, Swagger, Markdown, PDF) and automatically generates working API integrations — cutting integration time from 3-4 hours down to 25-30 minutes.
+- Combines RAG-based doc retrieval, workflow planning, code generation, and self-debugging (via LangGraph + LLMs) to run 5-10 agents concurrently with a 75-80% success rate.
 
-### 🏥 Doctor Appointment System
-Full Stack appointment booking system featuring authentication, role-based access, appointment scheduling, and an admin dashboard.
-`React` `Node.js` `Express.js` `MongoDB` `Auth`
+`Python` `LangGraph` `RAG` `FastAPI` `React` `PostgreSQL` `Qdrant` `Docker`
 
-### 🥗 AI Calorie Tracking System
-An AI-powered nutrition tracking application that helps users estimate calories and monitor their diet.
-`Python` `Machine Learning` `Computer Vision`
+### 🐦 GPU-Accelerated Swarm Intelligence Simulation
 
-> 💡 Add a repo link to each project title once they're public, so visitors can click straight through.
+- A real-time swarm (boids) simulation rendering 10,000+ autonomous agents at 45-60 fps, powered by CUDA for GPU-accelerated parallel computation.
+- Used spatial hashing and custom CUDA kernels to speed up neighbor search, delivering an 8-15x frame rate improvement over a naive CPU version.
+
+`CUDA` `C++` `OpenGL` `GLFW` `ImGui`
+
+### ☁️ Cloud-Based Storage System
+
+- A secure file storage platform with upload, retrieval, authentication, and metadata management, tested with 10-15 concurrent users.
+- Built the backend on Node.js and Express with MongoDB and AWS (S3, EC2), reaching a 95% reliable upload/download success rate across 100-200 test operations.
+
+`Node.js` `Express.js` `MongoDB` `AWS S3` `AWS EC2`
 
 ---
 
@@ -178,11 +182,8 @@ An AI-powered nutrition tracking application that helps users estimate calories 
 <a href="https://www.linkedin.com/in/abhishek-jambla">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abhishekjambla@gmail">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
 
