@@ -143,10 +143,6 @@
 
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=AJambla&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJambla&theme=react-dark"/>
 </p>
 
